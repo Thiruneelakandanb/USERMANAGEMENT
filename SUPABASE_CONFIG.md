@@ -31,8 +31,10 @@ Use this for:
 
 ### Supabase API Details
 - **URL**: https://rhebewpkkimrlddyceax.supabase.co
-- **Anon Key**: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InJoZWJld3Bra2ltcmxkZHljZWF4Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzA3OTUxODgsImV4cCI6MjA4NjM3MTE4OH0.17qiZA-D1-t9Uy0cVov6YrImoDkfJjrZcYw4LfW7AgY
-- **Service Role Key**: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InJoZWJld3Bra2ltcmxkZHljZWF4Iiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc3MDc5NTE4OCwiZXhwIjoyMDg2MzcxMTg4fQ.SheT6BHkUSL8xyBlodl0Bj1Gwih3WOaTowoQxk_g0LY
+- **Anon Key**: [REMOVED - Get from Supabase Dashboard]
+- **Service Role Key**: [REMOVED - NEVER commit this key!]
+
+⚠️ **SECURITY NOTE**: Service role keys should NEVER be committed to Git. Get fresh keys from Supabase Dashboard.
 
 ## Current Configuration (application.properties)
 
